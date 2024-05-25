@@ -1,0 +1,37 @@
+Error at Line No: 1 Ill formed number 1.2.345
+Line No: 2 Token <CONST_INT> Lexeme 12 found 
+Line No: 2 Token <ID> Lexeme abcd found 
+0 -->
+1 -->
+2 -->
+3 -->
+4 -->
+5 -->
+6 -->
+7 -->
+8 -->
+9 --><ID,abcd> 
+Error at Line No: 3 Multi character constant error 'ab'
+Error at Line No: 4 Multi character constant error 'ab cd'
+Line No: 5 Token <ID> Lexeme efgh found 
+0 -->
+1 -->
+2 -->
+3 --><ID,efgh> 
+4 -->
+5 -->
+6 -->
+7 -->
+8 -->
+9 --><ID,abcd> 
+Line No: 6 Token <ID> Lexeme ijk found 
+0 -->
+1 -->
+2 -->
+3 --><ID,efgh> 
+4 -->
+5 -->
+6 --><ID,ijk> 
+7 -->
+8 -->
+9 --><ID,abcd> 

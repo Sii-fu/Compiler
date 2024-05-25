@@ -1,0 +1,1 @@
+<KEYWORD, text: int, size: 3 <ID, text: abc, size: 3 <assignment Op> <NUMBER, text: 10, size: 2><semicolon> <ID, text: cin, size: 3 >> <ID, text: abc, size: 3<semicolon><KEYWORD, text: float, size: 5 <ID, text: bcd, size: 3 <assignment Op> <FLOAT, text: 89.10, size: 5><semicolon><ID, text: sdsad, size: 5<ID, text: dasas, size: 5<ID, text: asdkjn, size: 6

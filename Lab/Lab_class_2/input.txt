@@ -1,0 +1,6 @@
+int abc = 10; cin >> abc;
+float bcd = 89.10;
+
+sdsad count 
+dasas while do 
+asdkjn

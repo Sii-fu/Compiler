@@ -1,0 +1,80 @@
+Inserted at position 5 0
+Inserted at position 9 0
+Inserted at position 0 0
+Inserted at position 1 0
+Inserted at position 3 0
+Already Exists
+0->< (,LPAREN> 
+1->< ),RPARAN> 
+2->
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> 
+6->
+7->
+8->
+9->< main,FUNCTION> 
+Not Found
+Inserted at position 2 0
+Inserted at position 5 1
+Found at 2 0
+Not Found
+Inserted at position 9 1
+0->< (,LPAREN> 
+1->< ),RPARAN> 
+2->< foo,FUNCTION> 
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> < i,IDENTIFIER> 
+6->
+7->
+8->
+9->< main,FUNCTION> < 123,NUMBER> 
+Doesn't Exist
+Deleted from 9 1
+0->< (,LPAREN> 
+1->< ),RPARAN> 
+2->< foo,FUNCTION> 
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> < i,IDENTIFIER> 
+6->
+7->
+8->
+9->< main,FUNCTION> 
+Inserted at position 0 1
+Inserted at position 9 1
+0->< (,LPAREN> < 231,NUMBER> 
+1->< ),RPARAN> 
+2->< foo,FUNCTION> 
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> < i,IDENTIFIER> 
+6->
+7->
+8->
+9->< main,FUNCTION> < 105,NUMBER> 
+Deleted from 0 1
+Inserted at position 0 1
+0->< (,LPAREN> < 204,NUMBER> 
+1->< ),RPARAN> 
+2->< foo,FUNCTION> 
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> < i,IDENTIFIER> 
+6->
+7->
+8->
+9->< main,FUNCTION> < 105,NUMBER> 
+Deleted from 0 1
+Inserted at position 9 2
+0->< (,LPAREN> 
+1->< ),RPARAN> 
+2->< foo,FUNCTION> 
+3->< {,LCURL> 
+4->
+5->< int,KEYWORD> < i,IDENTIFIER> 
+6->
+7->
+8->
+9->< main,FUNCTION> < 105,NUMBER> < 123,NUMBER> 

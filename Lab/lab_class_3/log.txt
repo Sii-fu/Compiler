@@ -1,0 +1,13 @@
+Line No: 1  Token <INT> found
+Line No: 1  Token <ID,a> inserted in the table
+Line No: 1  Token <ASSIGNOP> found
+Line No: 1  Token <CONST_INT,5> inserted in the table
+Line No: 2  Token <INT> found
+Line No: 2  Token <ID,masdk> inserted in the table
+Line No: 3  Token <ID,masdk> inserted in the table
+Line No: 3  Token <ASSIGNOP> found
+Line No: 3  Token <CONST_INT,50> inserted in the table
+Line No: 4  Token <FLOAT> found
+Line No: 4  Token <ID,fl> inserted in the table
+Line No: 4  Token <ASSIGNOP> found
+Line No: 4  Token <FLOAT,4.5343> inserted in the table

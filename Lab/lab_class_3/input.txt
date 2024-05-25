@@ -1,0 +1,4 @@
+int a = 5;
+int masdk;
+masdk =50;
+float fl = 4.5343;
